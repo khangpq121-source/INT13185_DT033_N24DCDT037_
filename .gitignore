@@ -1,0 +1,15 @@
+# Build binaries
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# OS temporary files
+Thumbs.db
+Desktop.ini
+
